@@ -127,8 +127,7 @@ const wikibases = {
 		// hopefully the other way around.
 		// imported from external file
 		sites: trekSites,
-		},
-	},
+	},	
 };
 
 Object.keys(wikibases).forEach(name => {
