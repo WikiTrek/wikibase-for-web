@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Datatrek for web",
-  "version": "0.532",
+  "version": "0.533",
   "default_locale": "en",
   "description": "Display information from datatrek.",
   "icons": {
@@ -15,7 +15,7 @@
   },
   "sidebar_action": {
     "default_icon": "icons/datatrek.svg",
-    "default_title": "Wikibase view",
+    "default_title": "DataTrek view",
     "default_panel": "sidebar/index.html",
     "open_at_install": true
   },
